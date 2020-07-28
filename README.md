@@ -1,6 +1,7 @@
 # Introduction to Arduino Workshop
 
 This workshop will introduce you to the basics of the popular microcontroller, Arduino.
+It follows setting up an Arduino for the first time, using its in built editing environment, and building your own heart rate monitor!
 Originally, the workshop was designed to take around 60 minutes for up to 30 students.
 The presentation slides were made with Canva, and they can be found [here](https://www.canva.com/design/DADbSqPhDms/FKnQA25yyKrIl5hdzbNsbw/view?utm_content=DADbSqPhDms&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu).
 If the link above is stale, a back-up PDF is [here](presentation.pdf)
